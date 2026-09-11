@@ -40,7 +40,7 @@ const portfolioData = {
   ],
   "education": [
     {
-      "degree": "AI&DS",
+      "degree": "B.Tech in DSAI",
       "institution": "iiit dharwad",
       "duration": "2026 - 2030"
     }
